@@ -1,0 +1,5 @@
+name = Custom Tokens for OU Libraries
+description = Provides custom tokens for OU Libraries sites.  
+core=7.x
+dependencies[] = token:token
+
